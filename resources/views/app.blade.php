@@ -18,6 +18,6 @@
     <body class="font-sans antialiased">
         @inertia
 
-        hhgfgh
+    ale gwapo kaayo
     </body>
 </html>
